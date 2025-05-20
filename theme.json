@@ -1,0 +1,22 @@
+{
+  "name": "Brillant Theme",
+  "version": "1.0.0",
+  "author": "Brillant Store",
+  "description": "A premium theme combining Extra features with Brillant Store branding",
+  "templates": [
+    "home",
+    "product",
+    "cart",
+    "checkout",
+    "account"
+  ],
+  "assets": {
+    "css": ["styles.css"],
+    "js": ["main.js"],
+    "images": ["brillant_logo.png"]
+  },
+  "supports": {
+    "rtl": true,
+    "languages": ["ar", "en"]
+  }
+}
